@@ -1,6 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/JDOppe/intstr/main/.github/branding/in.png">
-    <p>Serving over 8+ million users since 2023.<p>
+    <img src="https://github.com/JDOppe/intstr/blob/main/.github/branding/in.png?raw=true">
     <p>Integer Stealer is a web proxy with a Clean and Sleek UI and easy to use menus. Our goal is to provide the best user experience to everyone.</p>
 </div>
 

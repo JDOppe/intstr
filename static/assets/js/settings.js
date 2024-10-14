@@ -110,6 +110,12 @@ function saveEventKey() {
   // biome-ignore lint/correctness/noSelfAssign:
   window.location = window.location;
 }
+
+// Theme Changer
+function themeChange(drop) {
+  localStorage.setItem("theme", drop);
+}
+ 
 // Tab Cloaker
 const dropdown = document.getElementById("dropdown");
 const options = dropdown.getElementsByTagName("option");

@@ -172,10 +172,10 @@ document.addEventListener("DOMContentLoaded", event => {
 });
 // Splash texts
 const SplashT = [
-  "Over 8 Million Users since 2023",
-  "Fastest growing proxy server",
-  "Thanks for using the site",
-  "Check out the settings page",
+  "Micah Ylinen Approved.",
+  "Block this! Actually, please don't...",
+  "Thanks for using this pr0xy!",
+  "Check out the settings page!",
 ];
 
 let SplashI = Math.floor(Math.random() * SplashT.length);
